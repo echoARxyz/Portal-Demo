@@ -1,4 +1,4 @@
-# Unity-ARFoundation-echoAR-demo-Portal
+# Unity-ARFoundation-echoAR-demo-Portal-360Video
 Simple portal demo with Unity, AR Foundation, and echoAR.
 
 ## Register
